@@ -14,3 +14,6 @@ Console.WriteLine(kisiler.Surname);
 Console.WriteLine(kisiler.Age);
 Console.WriteLine(kisiler.Gender);
 
+//** 
+
+kisiler.ShowNameAndSurname(kisiler.Name);
