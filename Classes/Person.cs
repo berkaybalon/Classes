@@ -11,7 +11,7 @@ namespace Classes
     {
         //get; veriye başka yerden ulaşabilmek için, set veriye değer vermek için
 
-        public int Id { get; set; }
+        public long Tc { get; set; }
         public string Name { get; set; }
         public string Surname { get; set; }
         public int Age { get; set; }
